@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sayed Ashrf</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<br clear="both">
+
+<h2 align="left">Hi 👋! My name is Sayed and I'm a Flutter Developer, from Egypt</h2>
+
+###
+
+<div align="left">
+  <a href="ssayedaashrf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sayed-ashrf-ba90861a6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/sayedashrf70" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="eng-sayed" /> </p>
 
