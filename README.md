@@ -36,6 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-sayed&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="eng-sayed" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eng-sayed&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eng-sayed&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+//[![GitHub Streak](https://streak-stats.demolab.com?user=eng-sayed&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
